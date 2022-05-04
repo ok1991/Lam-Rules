@@ -6,7 +6,7 @@ DOMAIN-SUFFIX,wine-cdn.lsttapppro.com
 DOMAIN-SUFFIX,wine.cdn.lianxinapp.com
 DOMAIN-SUFFIX,news-log.lsttnews.com
 DOMAIN-SUFFIX,mp-api.lsttnews.com
-DOMAIN-SUFFIX,mp-api.lsttapp.com
+# DOMAIN-SUFFIX,mp-api.lsttapp.com
 DOMAIN-SUFFIX,wavatar-cdn.lsttapppro.com
 DOMAIN-SUFFIX,sf3-fe-tos.pglstatp-toutiao.com
 DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao.com
