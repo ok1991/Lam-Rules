@@ -1,5 +1,10 @@
 DOMAIN-SUFFIX,wifi188.com
-DOMAIN-KEYWORD,lsttnews-com
+DOMAIN-SUFFIX,v-news02.lsttnews.com,REJECT
+DOMAIN-SUFFIX,news-img.lsttnews.com,REJECT
+DOMAIN-SUFFIX,wine-cdn.lsttapppro.com,REJECT
+DOMAIN-SUFFIX,news-log.lsttnews.com,REJECT
+DOMAIN-SUFFIX,mp-api.lsttnews.com,REJECT
+DOMAIN-SUFFIX,wavatar-cdn.lsttapppro.com,REJECT
 DOMAIN-SUFFIX,sf3-fe-tos.pglstatp-toutiao.com
 DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao.com
 DOMAIN-SUFFIX,tnc3-aliec2.snssdk.com
