@@ -1,12 +1,10 @@
 DOMAIN-SUFFIX,wifi188.com
-DOMAIN-SUFFIX,lsttnews.com
-DOMAIN-SUFFIX,wine.cdn.lianxinapp.com
-DOMAIN-SUFFIX,wavatar-cdn.lsttapppro.com
-DOMAIN-SUFFIX,sf3-fe-tos.pglstatp-toutiao.com
-DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao.com
+DOMAIN-SUFFIX,toutiao.com
 DOMAIN-SUFFIX,snssdk.com
-DOMAIN-SUFFIX,rbv01.ku6.com
+DOMAIN-SUFFIX,ku6.com
 DOMAIN-SUFFIX,51y5.net
 DOMAIN-SUFFIX,wkanx.com
+DOMAIN-SUFFIX,lsttnews.com
 DOMAIN-SUFFIX,lsttapp.com
-DOMAIN-SUFFIX,wine-cdn.lsttapppro.com
+DOMAIN-SUFFIX,lsttapppro.com
+DOMAIN-SUFFIX,lianxinapp.com
