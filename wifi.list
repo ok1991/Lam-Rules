@@ -8,3 +8,4 @@ DOMAIN-SUFFIX,lsttnews.com
 DOMAIN-SUFFIX,lsttapp.com
 DOMAIN-SUFFIX,lsttapppro.com
 DOMAIN-SUFFIX,lianxinapp.com
+URL-REGEX,"^https?:\/\/cmsapi\.wifi8\.com\/v\d\/(emptyAd|adNew)\/"
