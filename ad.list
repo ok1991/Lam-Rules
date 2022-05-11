@@ -26,3 +26,8 @@ DOMAIN-SUFFIX,googleapis-cn.com
 DOMAIN-SUFFIX,ctobsnssdk.com
 DOMAIN-SUFFIX,ifshow.com
 DOMAIN-SUFFIX,ugdtimg.com
+# 知乎
+DOMAIN-SUFFIX,uyunad.com
+DOMAIN-SUFFIX,kuaishouzt.com
+DOMAIN-SUFFIX,umeng.com
+DOMAIN-SUFFIX,inkuai.com
