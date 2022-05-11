@@ -1,0 +1,28 @@
+# WIFI钥匙
+DOMAIN-SUFFIX,wifi188.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
+DOMAIN-SUFFIX,pglstatp-toutiao.com
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,ku6.com
+DOMAIN-SUFFIX,51y5.net
+DOMAIN-SUFFIX,wkanx.com
+DOMAIN-SUFFIX,lsttnews.com
+DOMAIN-SUFFIX,lsttapp.com
+DOMAIN-SUFFIX,lsttapppro.com
+DOMAIN-SUFFIX,lianxinapp.com
+# 小蚁
+DOMAIN,graph.facebook.com
+DOMAIN,dp3.qq.com
+DOMAIN,sdk.e.qq.com
+DOMAIN,mi.gdt.qq.com
+DOMAIN,h.trace.qq.com
+DOMAIN,v2.gdt.qq.com
+DOMAIN,otheve.beacon.qq.com
+DOMAIN,safebrowsing.urlsec.qq.com
+DOMAIN-SUFFIX,wasair.com
+DOMAIN-SUFFIX,kuaishou.com
+DOMAIN-SUFFIX,yximgs.com
+DOMAIN-SUFFIX,googleapis-cn.com
+DOMAIN-SUFFIX,ctobsnssdk.com
+DOMAIN-SUFFIX,ifshow.com
+DOMAIN-SUFFIX,ugdtimg.com
