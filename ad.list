@@ -11,14 +11,14 @@ DOMAIN-SUFFIX,lsttapp.com
 DOMAIN-SUFFIX,lsttapppro.com
 DOMAIN-SUFFIX,lianxinapp.com
 # 小蚁
-DOMAIN,graph.facebook.com
-DOMAIN,dp3.qq.com
-DOMAIN,sdk.e.qq.com
-DOMAIN,mi.gdt.qq.com
-DOMAIN,h.trace.qq.com
-DOMAIN,v2.gdt.qq.com
-DOMAIN,otheve.beacon.qq.com
-DOMAIN,safebrowsing.urlsec.qq.com
+DOMAIN-SUFFIX,graph.facebook.com
+DOMAIN-SUFFIX,dp3.qq.com
+DOMAIN-SUFFIX,sdk.e.qq.com
+DOMAIN-SUFFIX,mi.gdt.qq.com
+DOMAIN-SUFFIX,h.trace.qq.com
+DOMAIN-SUFFIX,v2.gdt.qq.com
+DOMAIN-SUFFIX,otheve.beacon.qq.com
+DOMAIN-SUFFIX,safebrowsing.urlsec.qq.com
 DOMAIN-SUFFIX,wasair.com
 DOMAIN-SUFFIX,kuaishou.com
 DOMAIN-SUFFIX,yximgs.com
