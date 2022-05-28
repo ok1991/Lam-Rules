@@ -1,13 +1,12 @@
 # 微信
-DOMAIN-SUFFIX,minorshort.weixin.qq.com,DIRECT
-DOMAIN-SUFFIX,short.weixin.qq.com,DIRECT
-DOMAIN-SUFFIX,extshort.weixin.qq.com,DIRECT
-DOMAIN-SUFFIX,res.servicewechat.com,DIRECT
-DOMAIN-SUFFIX,long.weixin.qq.com,DIRECT
-DOMAIN-SUFFIX,dns.weixin.qq.com,DIRECT
-
+DOMAIN-SUFFIX,minorshort.weixin.qq.com
+DOMAIN-SUFFIX,short.weixin.qq.com
+DOMAIN-SUFFIX,extshort.weixin.qq.com
+DOMAIN-SUFFIX,res.servicewechat.com
+DOMAIN-SUFFIX,long.weixin.qq.com
+DOMAIN-SUFFIX,dns.weixin.qq.com
 # 爱发电
-DOMAIN-SUFFIX,afdian.net,DIRECT
-DOMAIN-SUFFIX,afdiancdn.com,DIRECT
-DOMAIN-SUFFIX,jpush.cn,DIRECT
-DOMAIN-SUFFIX,jpush.io,DIRECT
+DOMAIN-SUFFIX,afdian.net
+DOMAIN-SUFFIX,afdiancdn.com
+DOMAIN-SUFFIX,jpush.cn
+DOMAIN-SUFFIX,jpush.io
