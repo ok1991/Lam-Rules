@@ -2,11 +2,14 @@
 DOMAIN-SUFFIX,minorshort.weixin.qq.com
 DOMAIN-SUFFIX,short.weixin.qq.com
 DOMAIN-SUFFIX,extshort.weixin.qq.com
-DOMAIN-SUFFIX,res.servicewechat.com
+DOMAIN-SUFFIX,servicewechat.com
 DOMAIN-SUFFIX,long.weixin.qq.com
 DOMAIN-SUFFIX,dns.weixin.qq.com
+DOMAIN-SUFFIX,mmbiz.qpic.cn
 # 爱发电
 DOMAIN-SUFFIX,afdian.net
 DOMAIN-SUFFIX,afdiancdn.com
 DOMAIN-SUFFIX,jpush.cn
 DOMAIN-SUFFIX,jpush.io
+# 其他
+DOMAIN-SUFFIX,baidu.com
