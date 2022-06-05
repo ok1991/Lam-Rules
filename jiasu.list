@@ -7,6 +7,9 @@ DOMAIN-SUFFIX,long.weixin.qq.com
 DOMAIN-SUFFIX,dns.weixin.qq.com
 DOMAIN-SUFFIX,mmbiz.qpic.cn
 DOMAIN-SUFFIX,www.qq.com
+DOMAIN-SUFFIX,wx.qlogo.cn
+DOMAIN-SUFFIX,wx.gtimg.com
+DOMAIN-SUFFIX,yun-hl.3g.qq.com
 # 爱发电
 DOMAIN-SUFFIX,afdian.net
 DOMAIN-SUFFIX,afdiancdn.com
