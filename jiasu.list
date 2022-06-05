@@ -20,3 +20,6 @@ DOMAIN-SUFFIX,jpush.cn
 DOMAIN-SUFFIX,jpush.io
 # 其他
 DOMAIN-SUFFIX,baidu.com
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,digicert.com
