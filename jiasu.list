@@ -13,6 +13,9 @@ DOMAIN-SUFFIX,yun-hl.3g.qq.com
 DOMAIN-SUFFIX,apis.map.qq.com
 DOMAIN-SUFFIX,up-hl.3g.qq.com
 DOMAIN-SUFFIX,res.wx.qq.com
+DOMAIN-SUFFIX,[240e:e1:a802:1::32]:443
+DOMAIN-SUFFIX,[240e:e1:a802:b8::18]:443
+DOMAIN-SUFFIX,[240e:e1:aa00:13::b0]:443
 # 爱发电
 DOMAIN-SUFFIX,afdian.net
 DOMAIN-SUFFIX,afdiancdn.com
