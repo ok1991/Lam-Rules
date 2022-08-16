@@ -34,15 +34,5 @@ DOMAIN-SUFFIX,inkuai.com
 DOMAIN-SUFFIX,serving-sys.com
 # 向日葵
 DOMAIN-SUFFIX,msg.umengcloud.com
-# 酷我
-DOMAIN-SUFFIX,mobilead.kuwo.cn
-DOMAIN-SUFFIX,message.kuwo.cn
-DOMAIN-SUFFIX,artistfeeds.kuwo.cn
-DOMAIN-SUFFIX,mobi.kuwo.cn
-DOMAIN-SUFFIX,yypd1.kuwo.cn
-DOMAIN-SUFFIX,oth.eve.mdt.qq.com
-DOMAIN-SUFFIX,tmeadcomm.y.qq.com
-DOMAIN-SUFFIX,kugou.com
-DOMAIN-SUFFIX,doubleclick.net
 # 美柚
 DOMAIN-SUFFIX,ad.seeyouyima.com
