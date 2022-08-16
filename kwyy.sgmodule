@@ -1,12 +1,5 @@
-/* 
-脚本功能：完美解锁酷我音乐
-脚本作者：king
-更新时间：2022.8.16
-当前版本:10.2.8
-*/
-
 #!name=完美解锁酷我音乐
-#!desc=test
+#!desc=支持10.2.8及以下版本
 
 [Script]
 KuwoVip = type=http-response,script-path=https://cdn.staticaly.com/gh/ok1991/Lam-Rules/main/Kuwo.js,pattern=^https?:\/\/.*\.(kuwo|lrts)\.(cn|me)\/(a\.p|music\.pay|(vip\/(v2|enc)\/(theme|user\/vip))|(EcomResource|(Mobile)?Ad)Serv(er|ice)).*,max-size=131072,requires-body=true,timeout=10,script-update-interval=0,enable=true
