@@ -3,6 +3,7 @@
 
 [Script]
 KuwoVip = type=http-response,script-path=https://cdn.staticaly.com/gh/ok1991/Lam-Rules/main/Kuwo.js,pattern=^https?:\/\/.*\.(kuwo|lrts)\.(cn|me)\/(a\.p|music\.pay|(vip\/(v2|enc)\/(theme|user\/vip))|(EcomResource|(Mobile)?Ad)Serv(er|ice)).*,max-size=131072,requires-body=true,timeout=10,script-update-interval=0,enable=true
+kuwoDownload = type=http-request,script-path=https://cdn.staticaly.com/gh/ok1991/Lam-Rules/main/kuwodl.js,pattern=^https?:\/\/musicpay\.kuwo\.cn\/music\.pay\?newver=\d$,max-size=131072,requires-body=true,timeout=10,script-update-interval=0,enable=true
 
 [MITM]
 hostname = *.kuwo.cn, *.lrts.me
