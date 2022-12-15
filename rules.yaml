@@ -13,7 +13,7 @@ mode: Rule
 log-level: silent
 
 # clash 的 RESTful API 监听地址
-external-controller: 127.0.0.1:9090
+external-controller: :9090
 
 # DNS 服务器配置(可选；若不配置，程序内置的 DNS 服务会被关闭)
 dns:
