@@ -1,8 +1,0 @@
-#!name=完美解锁酷我音乐
-#!desc=支持10.2.8及以下版本
-
-[Script]
-酷我音乐=type=http-response,pattern=^https?:\/\/.*\.(kuwo|lrts)\.(cn|me)\/(a\.p|music\.pay|(vip\/(v2|enc)\/(theme|user\/vip))|(EcomResource|(Mobile)?Ad)Serv(er|ice)).*,requires-body=1,max-size=0,script-path=https://cdn.staticaly.com/gh/ok1991/Lam-Rules/main/kw.js,script-update-interval=0
-
-[MITM]
-hostname = %APPEND% *.kuwo.cn, *.lrts.me
